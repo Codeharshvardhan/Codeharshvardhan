@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Harshvardhan 👋
+
+🎯 Aspiring Full-Stack Web Developer | Focused on building real-world web apps with modern tech
+
+🔨 Tech Stack: HTML, CSS, JavaScript, React (soon), Node.js (soon)
+
+🚀 Projects in progress:
+- Personal Portfolio Website (HTML/CSS)
+- Amazon Landing Page Clone
+- More coming every week
+
+📫 Reach me: codeharshvardhan@gmail.com
+
+🌱 Learning every day. Documenting everything I build.
 
 <!--
 **Codeharshvardhan/Codeharshvardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
